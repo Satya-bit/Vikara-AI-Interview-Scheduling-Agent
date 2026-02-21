@@ -11,6 +11,13 @@ Current architecture is intentionally simple:
 ## Demo Link(Video)
 https://drive.google.com/file/d/1m8eEKAmLGsmj7Tn9s10wgWYmJMr2TpJg/view?usp=sharing
 
+## Deployed Link
+https://vikara-ai-interview-scheduling-agent-1.onrender.com
+
+> **Important**
+> Hosted on Render free tier, so the service may sleep after inactivity and first load can take longer due to cold start.
+> I am also using a free tier of Vapi, so if any error occurs, please mail me.
+
 ## Workflow
 1. User opens the React form and enters `name`, `email`, and `phone`.
 2. Frontend validates that all fields are filled before enabling submit.
